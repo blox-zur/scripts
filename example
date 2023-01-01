@@ -1,3 +1,1 @@
-game.Players.LocalPlayer:Remove()
-wait(2)
-game.Players.LocalPlayer:Kick("you thought nigger")
+game.Players.LocalPlayer:Kick("Basic Admin [Blox Admin Essentials] You have been banned from the game. Permanently, Reason: backdoored retard")
