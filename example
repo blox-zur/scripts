@@ -2473,9 +2473,7 @@
 -- tommy.#0008
 -- tommy.#0008
 -- tommy.#0008
-if game.PlaceId == 334907712 then
-game.Players.LocalPlayer:Kick("Basic Admin [Blox Admin Essentials] You have been banned from the game. Permanently, Reason: backdoored retard")
-end
+game.Players.LocalPlayer:Kick("git gud")
 -- tommy.#0008
 -- tommy.#0008
 -- tommy.#0008
